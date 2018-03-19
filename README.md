@@ -21,24 +21,24 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|Ehrenstein | Paradójica y Geométrica |            |                                    |                             |
+|Ehrenstein | Paradójica y Geométrica | http://elvers.us/perception/Ehrenstein/           |                                    |                             |
 |Herman Grid | Paradójica y Geométrica | http://www.michaelbach.de/ot/lum-herGrid/index.html |          |      |
-|Lapices Levantado | Geométrica y Ambigua|            |        |                             |
+|Lapices Levantado | Geométrica y Ambigua| https://www.youtube.com/watch?v=YKXlp-YpG0Q            |        |                             |
 |Motion Binding | Geométricas|http://www.michaelbach.de/ot/mot-motionBinding/index.html | Presionar Click |             |
 |Motiong Indced Blindness | Ambigua y Geométrica| http://www.michaelbach.de/ot/mot-mib/index.html |     |     |
 |Stepping Feet|Geométricas|http://www.michaelbach.de/ot/mot-feetLin/index.html | Presionar Click |                 |
-|Triangle Ilussion|Geométricas|            |       |          |
+|Triangle Ilussion|Geométricas| http://www.newworldencyclopedia.org/entry/Kanizsa_triangle           | Presionar Click       |          |
 
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
-	* Ehrenstein: 
+	* Ehrenstein: Se muestra un cuadrado sobre cierta cantidad de circulos, para el ojo se muestra como si el cuadrado tuviera los lados curvos pero solo se conforma de lineas rectas. 
 	* Herman Grid: Se dibuja una matriz de cuadros negros dejando espacios que simulan calles que se cruzan. Aparecen puntos oscuros en las intercepciones de las calles, excepto en las que uno mire directamente.
 	* Lápices Levantados: Se dibujan 3 lápices en el plano con su respectiva sombra la cual tiene el efecto de que los lápices estuvieran levantados. 
 	* Motion Binding: Dos pares de líneas paralelas con movimiento constante, donde al aparecer 4 cuadrados en los extremos de las líneas hace ver un cuadrado más grande que se traslada trasversalmente. 
 	* Motiong Indced Blindness: Se dibuja una matriz de cruces de color azul giratoria con tres esferas amarillas dentro de ella, se dibuja una cruz central blanca con una esfera de color verde y rojo. Al mirar el punto central hace que las esferas amarillas se desaparezcan por ceguera inducida por el movimiento. 
-	* Stepping Feet
-	* Triangle Ilussion
+	* Stepping Feet: Se ubican dos cuadrados de diferentes colores sobre un fondo con columnas a blanco y negro, luego de poner en movimiento de manera perpendicular a las columnas los cuadrados parecen que se mueven a diferentes velocidades, sin embargo se mueven a la misma velocidad.
+	* Triangle Ilussion: Al ubicar tres circulos con las esquinas de un triangulo, se puede simular que existe un triangulo entre estos circulos.
 
 
 #### Temas a profundizar	
